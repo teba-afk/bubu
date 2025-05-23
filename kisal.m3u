@@ -41,3 +41,6 @@ http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo Wild" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/gJ5rjbQk/1200px-Nat-Geo-Wild-logo.png" group-title="Documentary",Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo Wild" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/gJ5rjbQk/1200px-Nat-Geo-Wild-logo.png" group-title="Documentary",test
+https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network-avc1_3110800=12.m3u8
+
