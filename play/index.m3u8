@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=546239,CODECS="mp4a.40.5,avc1.4d4015",RESOLUTION=426x240,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+https://mpd.mytv2desa.workers.dev/mpd
