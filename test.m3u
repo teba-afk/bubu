@@ -9,7 +9,7 @@
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="105.astro" group-title="3 beradik" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIMA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
